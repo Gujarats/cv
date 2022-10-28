@@ -1,6 +1,6 @@
 # Gujarat Santana
 
-_Software engineer
+Software engineer
 
 [Email](mailto:gujarat.santana@gmail.com) / [Website](https://stackoverflow.com/users/2652524/gujarat-santana?tab=profile) / [LinkedIn](https://https://www.linkedin.com/in/gujarat-santana-2a4bbb96/) / [GitHub](https://github.com/gujarats/)
 
@@ -94,4 +94,4 @@ Non-profit digital school for tech-interested newcomers applying for asylum in G
 ## 👩🏼‍🎓 Education
 
 Informatics Engineering <br>
-[Beloit College](https://telkomuniversity.ac.id/) - Bandung, Indonesia_(2010 - 2013)_
+[Telkom University](https://telkomuniversity.ac.id/) - Bandung, Indonesia_(2010 - 2013)_
