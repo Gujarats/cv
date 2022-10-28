@@ -51,4 +51,4 @@ Working closely with client and remotely help them to solve their problem. Refac
 ## 🏼‍🎓 Education
 
 Informatics Engineering <br>
-[Telkom University](https://telkomuniversity.ac.id/) - Bandung, Indonesia_(2010 - 2013)_
+[Telkom University](https://telkomuniversity.ac.id/) - Bandung, Indonesia _(2010 - 2013)_
