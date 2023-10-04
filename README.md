@@ -2,8 +2,7 @@
 
 Software engineer
 
-[Email](mailto:gujarat.santana@gmail.com) / [Website](https://stackoverflow.com/users/2652524/gujarat-santana?tab=profile) / [LinkedIn](https://https://www.linkedin.com/in/gujarat-santana-2a4bbb96/) / [GitHub](https://github.com/gujarats/)
-[Blog] (https://gujarats.github.io/blog/post/setup-blog/)
+[Email](mailto:gujarat.santana@gmail.com) / [Website](https://stackoverflow.com/users/2652524/gujarat-santana?tab=profile) / [LinkedIn](https://https://www.linkedin.com/in/gujarat-santana-2a4bbb96/) / [GitHub](https://github.com/gujarats/) / [Blog] (https://gujarats.github.io/blog/post/setup-blog/)
 
 ## 🏼‍💻 Engineering Experience
 
