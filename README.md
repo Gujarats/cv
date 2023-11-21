@@ -18,8 +18,8 @@ Web Development
 
 - [Curriculum Vitae](https://gujarats.github.io/cv/) using Mardownk
 - [Writing Enginering Experience](https://gujarats.github.io/blog/) using hugo
-- [My Personal Coach Online](https://online-coach.netlify.app/) for teaching people to be healthier using raw HTML, CSS, Javascript
-- [My Healthy Blog](http://lifeku.netlify.app/) for sharing my experience to be a better person in life. Using Gatsby, React, Tailwind, Markdown
+- [My Personal Coach Online](https://coach.gsfits.com/) for teaching people to be healthier using raw HTML, CSS, Javascript
+- [My Healthy Blog](http://gsfits.com) for sharing my experience to be a better person in life. Using Gatsby, React, Tailwind, Markdown
 
 Content videos
 
