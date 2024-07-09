@@ -8,7 +8,7 @@ Software engineer
 
 Web Development
 
-- [Daging Kurban - Market Place For Local Farmer to sell their livestock](https://dagingkurban.com/)
+- [Daging Kurban](https://dagingkurban.com/) - Market Place For Local Farmer to sell their livestock (Gatsby, React, Tailwind, Markdown)
 - [Curriculum Vitae](https://gujarats.github.io/cv/) using Mardownk
 - [Writing Enginering Experience](https://gujarats.github.io/blog/) using hugo
 - [My Personal Coach Online](https://coach.gsfits.com/) for teaching people to be healthier using raw HTML, CSS, Javascript
