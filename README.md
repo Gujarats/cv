@@ -6,6 +6,9 @@ Software engineer
 
 ## 🏼‍ 🏡 During Career Break _(2022 - current)_ <br>
 
+Game Modification
+ - [Skyrim - Sleep Gives Buff](https://www.nexusmods.com/skyrimspecialedition/mods/131972/) - C++,Papyrus,Creation Kit and all the tools required to modify the Game
+
 Web Development
 
 - [Daging Kurban](https://dagingkurban.com/) - Market Place For Local Farmer to sell their livestock (Gatsby, React, Tailwind, Markdown)
