@@ -2,16 +2,11 @@
 layout: cv
 ---
 
-# Gujarat Santana
-
-Software engineer
-
-[Email](mailto:gujarat.santana@gmail.com) / [Website](https://stackoverflow.com/users/2652524/gujarat-santana?tab=profile) / [LinkedIn](https://https://www.linkedin.com/in/gujarat-santana-2a4bbb96/) / [GitHub](https://github.com/gujarats/) / [Blog](https://gujarats.github.io/blog/post/setup-blog/)
-
-## 🏼‍ 🏡 During Career Break _(2022 - current)_ <br>
+## 🏡 During Career Break _(2022 - current)_ <br>
 
 Game Modification
- - [Skyrim - Sleep Gives Buff](https://www.nexusmods.com/skyrimspecialedition/mods/131972/) - C++,Papyrus,Creation Kit and all the tools required to modify the Game
+
+- [Skyrim - Sleep Gives Buff](https://www.nexusmods.com/skyrimspecialedition/mods/131972/) - C++,Papyrus,Creation Kit and all the tools required to modify the Game
 
 Web Development
 
@@ -30,11 +25,11 @@ Neo Vim - Hacker Editor - [my own config](https://github.com/Gujarats/dotfiles)
 - and I still using neo-vim until today
 
 Content videos
+
 - [dagingKurban](https://youtube.com/@dagingkurbandotcom)
 - [Alloscat](https://instagram.com/allooscat) - Mainecoon cats
-- [Personal](https://instagram.com/gujarats) - sharing on gym experience
 
-## 🏼‍💻 Engineering Experience
+## 💻 Engineering Experience
 
 **Software Engineer** @ [Traveloka](https://traveloka.com/) _(Feb 2018 - 2022)_ <br>
 Backend Infra team 2018-2020
@@ -81,10 +76,9 @@ Working closely with client and remotely help them to solve their problem. Refac
 ## 💬 Languages
 
 **Indonesia: Native** <br>
-🇺🇸 \*_English_ \*<br>
-<br><br>
+**English: Fluent** <br>
 
-## 🏼‍🎓 Education
+## 🎓 Education
 
 Informatics Engineering <br>
 [Telkom University](https://telkomuniversity.ac.id/) - Bandung, Indonesia _(2010 - 2013)_

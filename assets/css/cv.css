@@ -23,8 +23,13 @@ body {
 
 .profile-img {
   border-radius: 50%;
-  display:block;
-    margin:auto;
+  display: block;
+  margin: auto;
+  padding-bottom: 10px;
+}
+
+.profile-name {
+  text-align: center;
 }
 
 h1,
@@ -94,7 +99,6 @@ a:hover small {
   width: 860px;
   margin: 0 auto;
 }
-
 
 blockquote {
   border-left: 1px solid #e5e5e5;
@@ -319,5 +323,16 @@ footer {
     font-size: 12pt;
     color: #444;
   }
+
+  .hidden-print {
+    display: none !important;
+  }
+
+  .show-print {
+    display: block important;
+  }
 }
 
+.hidden {
+  display: none;
+}
