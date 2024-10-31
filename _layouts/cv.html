@@ -1,21 +1,80 @@
 <!doctype html>
 <html>
   <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="chrome=1" />
     <title>Gujarat Santana CV</title>
 
-    <link rel="stylesheet" href="/assets/css/cv.css">
-    <link rel="stylesheet" href="/assets/css/pygment_trac.css">
-    <meta name="viewport" content="width=device-width">
+    <link rel="stylesheet" href="/assets/css/cv.css" />
+    <link rel="stylesheet" href="/assets/css/pygment_trac.css" />
+    <meta name="viewport" content="width=device-width" />
     <!--[if lt IE 9]>
-    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+      <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
-
   </head>
   <body>
-    {% include navigation.html %} 
-    {{ content }}
+    <div class="wrapper">
+      <header>
+        <img
+          class="profile-img"
+          src="/assets/images/gujarats.jpg"
+          alt="Girl in a jacket"
+          
+          height="150"
+        />
+        <h3>Summary</h3>
+        <p>
+          Results-oriented Software Engineer with experience in different types
+          of companies from small to unicorn
+        </p>
+
+        <p>
+          Hands-on designing, developing, and deploying high-performance
+          software solutions, hands-on coding, cloud technologies, and frontend
+          development.
+        </p>
+        <p>
+          Experience in collaborating with a cross functional team to deliver
+          efficient solutions. Seeking to leverage my expertise in backend
+          development.
+        </p>
+        <p class="view">
+          <a href="http://github.com/orderedlist/minimal"
+            >View the Project on GitHub <small>orderedlist/minimal</small></a
+          >
+        </p>
+        <ul>
+          <li>
+            <a href="https://github.com/orderedlist/minimal/zipball/master"
+              >Download <strong>ZIP File</strong></a
+            >
+          </li>
+          <li>
+            <a href="https://github.com/orderedlist/minimal/tarball/master"
+              >Download <strong>TAR Ball</strong></a
+            >
+          </li>
+          <li>
+            <a href="http://github.com/orderedlist/minimal"
+              >Fork On <strong>GitHub</strong></a
+            >
+          </li>
+        </ul>
+      </header>
+      <section>{{ content }}</section>
+      <footer>
+        <p>
+          This project is maintained by
+          <a href="http://github.com/orderedlist">Steve Smith</a>
+        </p>
+        <p>
+          <small
+            >Hosted on GitHub Pages &mdash; Theme by
+            <a href="https://github.com/orderedlist">orderedlist</a></small
+          >
+        </p>
+      </footer>
+    </div>
     <script src="/assets/js/scale.fix.js"></script>
   </body>
 </html>
