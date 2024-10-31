@@ -25,11 +25,15 @@ body {
   border-radius: 50%;
   display: block;
   margin: auto;
-  padding-bottom: 10px;
+  padding-bottom: 5px;
 }
 
 .profile-name {
   text-align: center;
+}
+
+.summary {
+  padding-top: 10px;
 }
 
 h1,
@@ -39,7 +43,7 @@ h4,
 h5,
 h6 {
   color: #222;
-  margin: 0 0 20px;
+  margin: 0 0 5px;
 }
 
 p,
@@ -48,7 +52,7 @@ ol,
 table,
 pre,
 dl {
-  margin: 0 0 20px;
+  margin: 0 0 10px;
 }
 
 h1,
