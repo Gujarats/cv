@@ -1,3 +1,3 @@
 domain: gujarats.github.io/cv # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
-url: https://my-site.github.io/cv # the base hostname and protocol for your site, e.g. http://example.com
-
+url: https://gujarats.github.io/cv/ # the base hostname and protocol for your site, e.g. http://example.com
+#url: ENV_JEKYLL_BASE_URL
