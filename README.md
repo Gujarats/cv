@@ -12,6 +12,10 @@ $ git push origin main
 - The value of {{site.url}} should be dynamically changed based on the environment
 - the profile picutre is being hardcoded
 
+perhaps this is because I create prefix after the base url
+default base url from github pages : `gujarats.github.io`
+my base url : `gujarats.github.io/cv/`
+
 # Credits
 
 - I'm using mininal thanks to [orderedlist](https://github.com/orderedlist) for the theme
