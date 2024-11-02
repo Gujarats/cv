@@ -7,13 +7,6 @@ $ git commit -m "publish"
 $ git push origin main
 ```
 
-For testing I actually don't use live-reload due to some technical problems (mentioned in notes)
-```shell
-$ bundle exec jekyll build
-$ cd _site
-$ http-server -- need to install this using node if not exist
-```
-
 # Notes
 
 - The value of {{site.url}} should be dynamically changed based on the environment

@@ -47,13 +47,13 @@ layout: cv
 - Create SOP for engineer team to use SSO when begin to code, to protect in house libraries,SDKs in traveloka
 - Manage 7 teams in Traveloka to help them to migrate from 1 giant AWS account to multi-account env to have more visibility on the cost infra, reduce the current infra cost. I proposed migration plan databases, services, and assets to each team.
 
-### Axes product team 2020-2023
+### Axes product team 2020-2022
 
 - Create a development environment for the team to make developers more productives, reduce cost infra, and create SOP for the deployment.
 - Involves in product project to support business initiatives
 - Reduce the operational process to be faster and productives for internal operation product
 
-### Gamification product team 2022-2022
+### Gamification product team 2022-2023
 
 - Implement temporal in existing feature
 - Involves in product project to support business initiatives
