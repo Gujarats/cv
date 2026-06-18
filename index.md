@@ -4,6 +4,14 @@ layout: cv
 ---
 
 
+# 💻 My Latest Experience
+
+## Engineering Manager @ [Revalue Academy](https://revalueacademy.id/) _(Jul 2025 - Jun 2026)_ <br>
+ - Manage small engineering team
+ - oversee system design, facilitate technical reviews, maintain code quality
+ - became pin point from all cross team for fixing technical issue 
+ - manage timeline and communication across team
+
 # 🏡 What I do These Days <br>
 
 ## Freelance
@@ -38,7 +46,7 @@ layout: cv
 
 # 💻 Engineering Experience
 
-## Software Engineer @ [Traveloka](https://traveloka.com/) _(Feb 2018 - 2023)_ <br>
+## Software Engineer @ [Traveloka](https://traveloka.com/) _(Feb 2018 - 2022)_ <br>
 ### Backend Infra team 2018-2020
 
 - Create building block Java Library for all traveloka engineer team
@@ -53,7 +61,7 @@ layout: cv
 - Involves in product project to support business initiatives
 - Reduce the operational process to be faster and productives for internal operation product
 
-### Gamification product team 2022-2023
+### Gamification product team 2022-2022
 
 - Implement temporal in existing feature
 - Involves in product project to support business initiatives
