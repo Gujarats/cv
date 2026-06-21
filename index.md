@@ -3,23 +3,25 @@ title: "Gujarat Santana"
 layout: cv
 ---
 
-
 # 💻 My Latest Experience
 
 ## Engineering Manager @ [Revalue Academy](https://revalueacademy.id/) _(Jul 2025 - Jun 2026)_ <br>
- - Manage small engineering team
- - oversee system design, facilitate technical reviews, maintain code quality
- - became pin point from all cross team for fixing technical issue 
- - manage timeline and communication across team
+
+- spearheaded the conceptualization and initial design of critical features that directly improved sales performance and user engagement.
+- championed engineering cost-efficiency initiatives, successfully optimizing resource allocation to reduce infrastructure and operational costs by 40%.
+- oversee system design, facilitate technical reviews, maintain code quality
+- served as the primary cross-functional technical authority, streamlining the resolution of complex, high-priority technical issues across multiple departments.
+- manage timeline and communication across team
 
 # 🏡 What I do These Days <br>
 
 ## Freelance
- - Become consultant on some private companies during project initialization, planning, and execution
- - Creating Web application to support small business
- - Native Android application 
 
-## Game Modification 
+- Become consultant on some private companies during project initialization, planning, and execution
+- Creating Web application to support small business
+- Native Android application
+
+## Game Modification
 
 - [Skyrim - Sleep Gives Buff](https://www.nexusmods.com/skyrimspecialedition/mods/131972/) - C++,Papyrus,Creation Kit and all the tools required to modify the Game
 
@@ -47,6 +49,7 @@ layout: cv
 # 💻 Engineering Experience
 
 ## Software Engineer @ [Traveloka](https://traveloka.com/) _(Feb 2018 - 2022)_ <br>
+
 ### Backend Infra team 2018-2020
 
 - Create building block Java Library for all traveloka engineer team
