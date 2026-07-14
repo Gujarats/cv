@@ -15,15 +15,16 @@ layout: cv
 
 # 🏡 What I do These Days <br>
 
+## Game Modification
+
+- [Battle Brothers - Overpowered Archer and Crossbow](https://www.nexusmods.com/battlebrothers/mods/1076) - Squirrel as scripting language
+- [Skyrim - Sleep Gives Buff](https://www.nexusmods.com/skyrimspecialedition/mods/131972/) - C++,Papyrus,Creation Kit and all the tools required to modify the Game
+
 ## Freelance
 
 - Become consultant on some private companies during project initialization, planning, and execution
 - Creating Web application to support small business
 - Native Android application
-
-## Game Modification
-
-- [Skyrim - Sleep Gives Buff](https://www.nexusmods.com/skyrimspecialedition/mods/131972/) - C++,Papyrus,Creation Kit and all the tools required to modify the Game
 
 ## Web Development
 
