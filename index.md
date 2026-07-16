@@ -17,6 +17,7 @@ layout: cv
 
 ## Game Modification
 
+- [Battle Brothers - Aura Routing](https://www.nexusmods.com/battlebrothers/mods/1078)
 - [Battle Brothers - Overpowered Archer and Crossbow](https://www.nexusmods.com/battlebrothers/mods/1076) - Squirrel as scripting language
 - [Skyrim - Sleep Gives Buff](https://www.nexusmods.com/skyrimspecialedition/mods/131972/) - C++,Papyrus,Creation Kit and all the tools required to modify the Game
 
